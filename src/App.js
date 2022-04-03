@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <h1>Double Click the Full Name’s Value to Edit</h1>
+      <h1>Double Click the Full Name's Value to Edit</h1>
       <div>
         <strong>Full Name: </strong>
         {/* Invoke the ElementMaker component */}
